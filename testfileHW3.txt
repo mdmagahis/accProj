@@ -1,0 +1,6 @@
+    name          | id     |   amount 
+--------------------------------------
+ Peter   Benjamin | 78910 | $440.32
+ Malapa  Bushra   | 123456 | $100.0
+ Goday   Priya    | 125671 | $-586.43
+ John   Smith     | 444451 | $3000.0
