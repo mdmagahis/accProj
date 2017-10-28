@@ -53,3 +53,8 @@ local.properties
 .idea/
 *.iml
 *.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
